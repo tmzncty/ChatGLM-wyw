@@ -14,6 +14,8 @@
 ChatGLM官方链接：https://github.com/THUDM/ChatGLM-6B
 # 数据集来源
 目前手搓了论语数据集和可用模型一起放出。（后续还会更新）
+# 模型
+https://huggingface.co/TMZN/ChatGLM-wyw
 # 测试
 2023年5月16日 
 
